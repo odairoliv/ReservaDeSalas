@@ -3,9 +3,11 @@
 Projeto desenvolvido para a disciplina de Integração de Sistemas de Software (Avaliação A2-1). Esta é uma API RESTful em Java que gerencia o cadastro de salas e o agendamento de reservas, aplicando os conceitos de comunicação síncrona (consumo de API externa) e assíncrona (mensageria).
 
 ## 👥 Equipe
-* Odair José Pereira de Oliveira Junior
-* [Nome do Integrante 2]
-* [Nome do Integrante 3]
+* CAROLINA COCHLAR GRASER - 33978115
+* ERIK SANTIAGO PIANA - 32887787
+* IGOR MATEUS MORDASKI - 33823448
+* MARIA CLARA S. DOS SANTOS - 33053456
+* ODAIR JOSÉ PEREIRA DE OLIVEIRA  JUNIOR - 32622929
 
 ## 🎯 Descrição do Sistema e Regras de Negócio
 O sistema atua como um intermediário para gerenciamento de infraestrutura educacional. Suas principais integrações e lógicas incluem:
